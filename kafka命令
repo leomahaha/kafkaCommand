@@ -1,0 +1,2 @@
+//查询kafka消费信息
+./kafka/bin/kafka-console-consumer.sh --topic CW_OCEAN_RECORD_ALARM_FLOW --from-beginning --zookeeper localhost:2181
